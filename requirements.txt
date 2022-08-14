@@ -1,0 +1,7 @@
+telegraph
+requests
+json
+time 
+PIL 
+shutil
+imageio

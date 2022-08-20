@@ -1,6 +1,5 @@
 telegraph
 requests
-time 
-PIL 
-shutil
+pillow
+shutilwhich
 imageio

@@ -3,3 +3,4 @@ requests
 pillow
 shutilwhich
 imageio
+urllib3==1.25.11
